@@ -1,0 +1,4 @@
+/RobotSoftware/*.pyc
+.metadata/
+.idea/
+.recommenders/
